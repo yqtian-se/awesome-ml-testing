@@ -34,6 +34,8 @@ For paper:
 
 <a name="tools"></a>
 ## Tools
+   * agentstats: <https://github.com/RishabhPande/agentstats>
+      * Python library for analyzing repeated AI agent benchmark results with run-to-run variance, significance tests and run-count planning; analysis only, not an agent runner.
    * EvalDNN: <https://github.com/yqtianust/EvalDNN>
       * EvalDNN: A Toolbox for Evaluating Deep Neural Network Models.
       * Benchmark: https://yqtianust.github.io/EvalDNN-benchmark/index.html
